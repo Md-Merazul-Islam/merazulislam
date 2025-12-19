@@ -1,0 +1,28 @@
+[
+    {
+        "company": "SM Technology",
+        "position": "Backend Developer (Python)",
+        "duration": "Feb 2025 - Present",
+        "location": "Dhaka, Rampura, Banasree",
+        "description": "Building and deploying scalable backend systems and RESTful APIs. Notable works include:",
+        "projects": [
+            "Engineered scalable backend systems using Django REST Framework and FastAPI.",
+            "Deployed projects using Docker, Nginx, AWS EC2, and CI/CD pipelines.",
+            "Integrated Redis, Celery, and WebSockets for async tasks and real-time updates.",
+            "Built and deployed 12+ scalable web & mobile apps (e-commerce, SaaS, education, courier, design).",
+            "Collaborated with UI/UX and frontend teams for seamless integration."
+        ]
+    },
+    {
+        "company": "Royalx LLC",
+        "position": "Junior Python Developer / Trainee",
+        "duration": "Sep 2024 - Dec 2024",
+        "location": "Remote",
+        "description": "Worked as a Junior Python Developer focusing on AI/ML and image pipelines. Notable works include:",
+        "projects": [
+            "Developed an AI/ML clothing change model using Hugging Face and image pipelines.",
+            "Managed large uploads with limits and subscription-based access optimization.",
+            "Applied NumPy, Pandas, and Django’s built-in AI model integrations for backend scalability."
+        ]
+    }
+]

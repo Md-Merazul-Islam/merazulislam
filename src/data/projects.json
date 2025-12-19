@@ -1,0 +1,75 @@
+[
+    {
+        "title": "Hardware Management (MoleHardware)",
+        "description": "Scalable international Canadian e-commerce system with multi-role and seamless content management. Integrated 3rd-party API with 230K+ products without pagination and optimized response from 5 minutes to 5 milliseconds.",
+        "date": "2024",
+        "github": "https://github.com/Md-Merazul-Islam",
+        "live": "https://molehardware.com",
+        "stacks": [
+            "Django REST Framework",
+            "Celery",
+            "Redis",
+            "PostgreSQL",
+            "Docker",
+            "AWS S3",
+            "EC2/VPS",
+            "Signals"
+        ]
+    },
+    {
+        "title": "Meal Management System",
+        "description": "Advanced meal subscription and delivery system with multi-role management. Built real-time delivery tracking and multi-role management with WebSockets and Celery scheduling.",
+        "date": "2024",
+        "github": "https://github.com/Md-Merazul-Islam",
+        "stacks": [
+            "Django REST Framework",
+            "PostgreSQL",
+            "Redis",
+            "Celery",
+            "WebSockets",
+            "Docker",
+            "Nginx",
+            "S3"
+        ]
+    },
+    {
+        "title": "Safe Savvy Kids",
+        "description": "Canadian child-safety education platform with role-based access for students, teachers, and admins. Features module-wise video lessons with watch-time tracking and progress monitoring.",
+        "date": "2024",
+        "live": "https://safesavvykids.ca",
+        "stacks": [
+            "Django REST Framework",
+            "PostgreSQL",
+            "Next.js",
+            "Tailwind CSS",
+            "AWS S3",
+            "EC2",
+            "PM2"
+        ]
+    },
+    {
+        "title": "Job Hunter – Smart Job Scraping Platform",
+        "description": "Automatically scrapes and filters online job posts based on user preferences. Collects job posts from multiple sites and filters them by skills, location, job type, and platform.",
+        "date": "2024",
+        "github": "https://github.com/Md-Merazul-Islam",
+        "stacks": [
+            "FastAPI",
+            "Sqlalchemy",
+            "Selenium",
+            "Pandas",
+            "Pydantic",
+            "Uvicorn",
+            "Apscheduler"
+        ]
+    },
+    {
+        "title": "Agency Website (NARXU)",
+        "description": "International agency website delivering a modern, fast, secure, and fully API-driven digital experience with a polished UI.",
+        "date": "2024",
+        "github": "https://github.com/Md-Merazul-Islam",
+        "stacks": [
+            "Next.js",
+            "Django REST Framework"
+        ]
+    }
+]

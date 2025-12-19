@@ -1,0 +1,15 @@
+[
+    {
+        "institution": "Northern University Bangladesh",
+        "degree": "B.Sc. in Computer Science and Engineering",
+        "duration": "2025 - Present",
+        "description": "Currently pursuing a Bachelor of Science in Computer Science and Engineering."
+    },
+    {
+        "institution": "Mymensingh Polytechnic Institute",
+        "degree": "Diploma in Engineering (Computer Science & Technology)",
+        "duration": "2021 - 2025",
+        "gpa": "CGPA: 3.60/4.00",
+        "description": "Completed Diploma in Computer Science and Technology with a focus on core engineering principles and programming."
+    }
+]

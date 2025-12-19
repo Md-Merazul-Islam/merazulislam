@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Competitive Programming",
+        "items": [
+            {
+                "title": "Codeforces Specialist",
+                "position": "Specialist",
+                "location": "Global",
+                "date": "",
+                "description": "Achieved Specialist rank on Codeforces and solved 600+ problems across platforms."
+            },
+            {
+                "title": "CodeChef 3-Star & START120 Crowd Top-1",
+                "position": "Top-1 Rank (START120 Crowd)",
+                "location": "Bangladesh",
+                "date": "",
+                "description": "Achieved Top-1 rank in CodeChef START120 Crowd contest and earned multiple problem-solving certificates."
+            },
+            {
+                "title": "Competitive Programmer",
+                "position": "1,200+ Problems Solved",
+                "location": "Online Judges",
+                "date": "",
+                "description": "Solved 1,200+ competitive programming problems on LeetCode, Codeforces, CodeChef, and HackerRank."
+            }
+        ]
+    }
+]
