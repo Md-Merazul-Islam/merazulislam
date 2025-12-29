@@ -82,5 +82,18 @@
             "Next.js",
             "Django REST Framework"
         ]
+    },
+    {
+        "title": "Learning Management System",
+        "description": "A Learning Management System (LMS) is a web application that allows educators to create and manage online courses. It provides a platform for teachers to design, deliver, and assess courses, while students can access and engage with the content.",
+        "date": "",
+        "live": "http://206.162.244.143:8074",
+        "image": "learning.png",
+        "stacks": [
+            "Next.js",
+            "Django REST Framework",
+            "PostgreSQL",
+            "Docker"
+        ]
     }
 ]
